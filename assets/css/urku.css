@@ -1571,7 +1571,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-11.jpg");
+  background-image: url("../img/post-1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
